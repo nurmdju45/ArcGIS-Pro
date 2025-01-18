@@ -43,26 +43,6 @@ Place any required data files in the `data/` directory or adjust file paths in t
 
 ---
 
-## 📘 Examples
-
-### **1. Creating a Buffer**
-
-```python
-import arcpy
-
-# Input and output settings
-input_fc = "roads.shp"
-output_fc = "buffered_roads.shp"
-buffer_distance = "100 Meters"
-
-# Create a buffer
-arcpy.Buffer_analysis(
-    in_features=input_fc,
-    out_feature_class=output_fc,
-    buffer_distance_or_field=buffer_distance
-)
-print(f"Buffer created: {output_fc}")
-
 
 ## 💻 Requirements
 
