@@ -88,8 +88,8 @@ We welcome contributions! Here's how you can help:
 
 Have questions or suggestions? Feel free to reach out!
 
-- **Author**: Your Name  
-- **Email**: your.email@example.com  
+- **Author**: Nur Mohammad  
+- **Email**: nurmdju45@gmail.com 
 
 ---
 
